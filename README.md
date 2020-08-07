@@ -21,6 +21,7 @@ Linear Regression results showing Offensive/Defensive strength coefficients of e
 
 
 Requirements (Py modules): pandas, matplotlib, numpy, statsmodels, seaborn
+
 To Run (Windows): 
 
 py sports.py
